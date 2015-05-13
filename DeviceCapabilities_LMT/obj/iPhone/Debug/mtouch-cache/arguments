@@ -1,0 +1,31 @@
+# Version: 7.0.7.2 (fb4bc7b)
+# [first argument, ignore] # /Users/Hunter/Projects/DeviceCapabilities_LMT/DeviceCapabilities_LMT/bin/iPhone/Debug/mtouch.exe
+/Developer/MonoTouch/usr/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/Hunter/Projects/DeviceCapabilities_LMT/DeviceCapabilities_LMT/obj/iPhone/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-dev \
+	/Users/Hunter/Projects/DeviceCapabilities_LMT/DeviceCapabilities_LMT/bin/iPhone/Debug/DeviceCapabilities_LMT.app \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/monotouch.dll \
+	-r \
+	"/Users/Hunter/ws/Xamarin Downloads/MonoTouch.SlideoutNavigation-master/MonoTouch.SlideoutNavigation/bin/Debug/MonoTouch.Slideout.dll" \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/MonoTouch.Dialog-1.dll \
+	-debug \
+	-linksdkonly \
+	-sdk \
+	7.0 \
+	-targetver \
+	7.0 \
+	--abi=armv7 \
+	/Users/Hunter/Projects/DeviceCapabilities_LMT/DeviceCapabilities_LMT/bin/iPhone/Debug/DeviceCapabilities_LMT.exe \

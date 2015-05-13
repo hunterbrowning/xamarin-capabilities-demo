@@ -1,0 +1,7 @@
+/Users/Hunter/Projects/DeviceCapabilities_LMT/DeviceCapabilities_LMT/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Users/Hunter/Projects/DeviceCapabilities_LMT/DeviceCapabilities_LMT/obj/iPhone/Debug/mtouch-cache/Link/System.dll
+/Users/Hunter/Projects/DeviceCapabilities_LMT/DeviceCapabilities_LMT/obj/iPhone/Debug/mtouch-cache/Link/MonoTouch.Slideout.dll
+/Users/Hunter/Projects/DeviceCapabilities_LMT/DeviceCapabilities_LMT/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/Hunter/Projects/DeviceCapabilities_LMT/DeviceCapabilities_LMT/obj/iPhone/Debug/mtouch-cache/Link/DeviceCapabilities_LMT.exe
+/Users/Hunter/Projects/DeviceCapabilities_LMT/DeviceCapabilities_LMT/obj/iPhone/Debug/mtouch-cache/Link/MonoTouch.Dialog-1.dll
+/Users/Hunter/Projects/DeviceCapabilities_LMT/DeviceCapabilities_LMT/obj/iPhone/Debug/mtouch-cache/Link/System.Core.dll
